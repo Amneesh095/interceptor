@@ -2,7 +2,7 @@
 
 Interceptor is a web-based fraud detection system designed to visualize and analyze transaction data for detecting fraudulent activities. It utilizes HTML, JavaScript, and Tailwind CSS along with Chart.js for data visualization.
 
-#### you can view the live demo [here](https://amneesh095.github.io/interceptor/).
+#### You can view the live demo [here](https://amneesh095.github.io/interceptor/).
 
 ## Features
 
